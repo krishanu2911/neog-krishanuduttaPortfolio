@@ -82,6 +82,7 @@ hr{
     display: block;
     margin: auto;
 }
+
 .hero .hero-heading{
     color: var(--gray);
     padding-top: 1rem;
@@ -115,3 +116,9 @@ hr{
 .footer ul{
     padding-inline-start: 0px;
 }
+.footer img{
+    width: 2rem;
+}
+/* .footer .list-item-inline{
+    padding: 2rem;
+} */
